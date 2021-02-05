@@ -13,9 +13,9 @@ Specialist Knowledge Leader Mobile (iOS/Android) and Web Components Development 
 ## 🛠️ Languages and Tools:
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=php)
-![JQuery](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=jquery)
-![UML](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=uml)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![JQuery](https://img.shields.io/badge/-JQueryt-black?style=flat-square&logo=jquery)
+![UML](https://img.shields.io/badge/-UML-black?style=flat-square&logo=uml)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
 ![Angular11](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular&logoColor=red)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
