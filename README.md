@@ -1,7 +1,7 @@
 
 ### Hi there!, I'm [Franco](https://github.com/obisax) 
 
-![top doodle](/image/top.png)
+
 <div align='center'>
 <p>
 Specialist Knowledge Leader Mobile (iOS/Android) and Web Components Development and Frameworks JS Mobile, with a high work ethic and an eye for aestheIcs who has over 15 years of experience in programming. I am a fast learner and enjoy creating useful and beautiful apps with a focus on user experience and well designed code.  
@@ -52,5 +52,4 @@ Specialist Knowledge Leader Mobile (iOS/Android) and Web Components Development 
     <img src='https://img.shields.io/static/v1?label=LinkedIn&message=FrancoParedes&color=black&style=flat-square&logo=gitlab' />
   </a>
 </div>
-![bottom doodle](/image/bottom.png)
 
